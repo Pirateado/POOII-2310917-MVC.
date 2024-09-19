@@ -1,1 +1,3 @@
-# POOII-2310917-MVC.
+Integrantes:
+-Anthony Natividad Rodriguez
+-Renato Peña Reyna
